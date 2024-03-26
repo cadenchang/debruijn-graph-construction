@@ -1,0 +1,5 @@
+To change the k value, change the variable k in the main function on line 185.
+To change the min contig length, look in the parameters of the function 
+get_contigs on line 113.
+The usage to read original sequences from is the following command in terminal:
+python3 assembler.py < [filename]
